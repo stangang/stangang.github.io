@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaodong Dong (Member, IEEE, CCF, ACM) received the bachelor’s and master’s degrees from Northwestern Polytechnical University, Xi’an, China, in 2013 and 2016, respectively, and the Ph.D. degree from the School of Computer Science and Technology, College of Intelligence and Computing, Tianjin University, Tianjin, China, in 2020. He is currently a Lecturer with the College of Computer Science, Nankai University, Tianjin, China. My research interest includes computer networks, future Internet, and software-defined networking. In the field of network communications, I have published 11 papers as the first author.
+Xiaodong Dong (Member, IEEE, CCF, ACM) received the bachelor’s and master’s degrees from Northwestern Polytechnical University, Xi’an, China, in 2013 and 2016, respectively, and the Ph.D. degree from the School of Computer Science and Technology, College of Intelligence and Computing, Tianjin University, Tianjin, China, in 2020. He is currently a Lecturer with the College of Computer Science, Nankai University, Tianjin, China. My research interest includes computer networks, future Internet, and software-defined networking.
 
 # News
 
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2025.01: &nbsp;🎉🎉 Slark published on TPDS.
+- _2024.02: &nbsp;🎉🎉 I am working on packet sampling in SDN.
 
 # Publications
 
@@ -85,6 +85,6 @@ lorem\*3
 - _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
 
-# Internships
+<!-- # Internships
 
-- _2019.05 - 2020.02_, [Lorem](https://github.com/), China.
+- _2019.05 - 2020.02_, [Lorem](https://github.com/), China. -->
