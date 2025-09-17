@@ -87,8 +87,11 @@ lorem\*3
 
 # Academic Services
 
-- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
+- TPC Member: IEEE TrustCom 2025, 2024; IEEE IPSA 2025; IEA/AIE 2023; IEEE ICPADS 2019.
+
+- Session Chair: IEEE HPCC 2022; IEEE SmartIoT 2019.
+
+- Reviewer: IEEE ToN, TC, TNSM, TCCN, TETT, ACCESS; SuperComputing. 
 
 <!-- # Internships
 
