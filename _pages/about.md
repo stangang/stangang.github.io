@@ -17,16 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaodong Dong (Member, IEEE, CCF, ACM) received the bachelor’s and master’s degrees from Northwestern Polytechnical University, Xi’an, China, in 2013 and 2016, respectively, and the Ph.D. degree from the School of Computer Science and Technology, College of Intelligence and Computing, Tianjin University, Tianjin, China, in 2020. He is currently a Lecturer with the College of Computer Science, Nankai University, Tianjin, China. My research interest includes computer networks, future Internet, and software-defined networking.
+Xiaodong Dong (Member, IEEE, CCF, ACM) received the bachelor’s and master’s degrees from Northwestern Polytechnical University, Xi’an, China, in 2013 and 2016, respectively, and the Ph.D. degree from the School of Computer Science and Technology, College of Intelligence and Computing, Tianjin University, Tianjin, China, in 2020. He is currently a Lecturer with the College of Computer Science, Nankai University, Tianjin, China. My research interest includes computer networks, future Internet, and software-defined networking, datacenter networks.
 
 # News
 
+- _2025.10: &nbsp;🎉🎉 Viper accepted by TC.
 - _2025.01: &nbsp;🎉🎉 Slark published on TPDS.
 - _2024.02: &nbsp;🎉🎉 I am working on packet sampling in SDN.
 
 # Publications
 
 <div class='paper-box-text' markdown="1">
+
+- Viper: Priority-based High-Visibility Per-flow Packet Sampling for SDNs. **_Xiaodong Dong_**, Xiulong Liu, Lihai Nie, Jiuwu Zhang, Yinglong Wang. **_IEEE Trans. Computer_** Accepted. [[pdf]]()
+
+- Slark: A Performance Robust Decentralized Inter-Datacenter Deadline-Aware Coflows Scheduling Framework With Local Information. **_Xiaodong Dong_**, Lihai Nie, Zheli Liu, Yang Xiang. **_IEEE Trans. Parallel Distributed Syst_** 36(2): 197-211 (2025). [[pdf]](https://ieeexplore.ieee.org/document/10770555)
 
 - Balanar: Balancing deadline guarantee and Jain's fairness for inter-datacenter transfers. **_Xiaodong Dong_**, Binlei Cai. **Comput. Networks** 235: 109988 (2023). [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004334?via%3Dihub)
 
